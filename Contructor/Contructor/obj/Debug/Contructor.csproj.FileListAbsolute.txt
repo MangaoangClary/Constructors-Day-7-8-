@@ -1,0 +1,8 @@
+C:\Users\Clary Lumdang\source\repos\Contructor\Contructor\bin\Debug\Contructor.exe.config
+C:\Users\Clary Lumdang\source\repos\Contructor\Contructor\bin\Debug\Contructor.exe
+C:\Users\Clary Lumdang\source\repos\Contructor\Contructor\bin\Debug\Contructor.pdb
+C:\Users\Clary Lumdang\source\repos\Contructor\Contructor\obj\Debug\Contructor.csproj.AssemblyReference.cache
+C:\Users\Clary Lumdang\source\repos\Contructor\Contructor\obj\Debug\Contructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Clary Lumdang\source\repos\Contructor\Contructor\obj\Debug\Contructor.csproj.CoreCompileInputs.cache
+C:\Users\Clary Lumdang\source\repos\Contructor\Contructor\obj\Debug\Contructor.exe
+C:\Users\Clary Lumdang\source\repos\Contructor\Contructor\obj\Debug\Contructor.pdb
